@@ -30,7 +30,7 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-					<classifier>mule-application</classifier>
+					
 					 <cloudHubDeployment>
 						<muleVersion>4.4.0</muleVersion>
 						<applicationName>smartphone-api-cicdbed22</applicationName>
