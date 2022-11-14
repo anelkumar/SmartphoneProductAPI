@@ -34,8 +34,8 @@
 					 <cloudHubDeployment>
 						<muleVersion>4.4.0</muleVersion>
 						<applicationName>smartphone-api-cicdbed22</applicationName>
-						<username>${env.PLATFORM_USERNAME}</username>
-						<password>${env.PLATFORM_PASSWORD}</password>
+						<username>akVishwas_7</username>
+						<password>159aadiShankar</password>
 						<environment>Dev</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
