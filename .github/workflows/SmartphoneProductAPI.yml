@@ -77,4 +77,4 @@ jobs:
     - name: Deploy to Dev
       run: |
         artifactName=$(ls *.jar | head -1)
-        mvn  deploy -DmuleDeploy -Dusername=akVishwas_7 -Dpassword=159aadiShankar -DskipTests
+        mvn  deploy -DmuleDeploy  -DskipTests
